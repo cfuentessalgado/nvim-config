@@ -1,6 +1,6 @@
 require('cfuentes')
-require('cfuentes.lsp').setup()
 require('cfuentes.plugins')
+require('cfuentes.lsp').setup()
 require('cfuentes.theme')
 require('cfuentes.settings')
 require('cfuentes.treesitter')
